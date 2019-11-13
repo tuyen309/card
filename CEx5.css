@@ -1,0 +1,17 @@
+.card-body{
+	background-color: #09F72B;
+	color: white;
+}
+.card-a .left{
+	margin-top: 10px;
+	margin-left: 10px;
+	color: red;
+	/*border-right: 1px solid gray;*/
+}
+.card-a .right{
+	float: right;
+	margin-top: -55px;
+	margin-right: 20px;
+	border-left: 1px solid gray;
+	padding-left: 50px;
+}
