@@ -1,0 +1,17 @@
+.container .form .aff {
+	color: white;
+	background: #EAFF00;
+	width: 50px;
+	height: 50px; 
+}
+.container .form .form-group .form-control {
+	float: right;
+	height: 50px;
+}
+.container .form .form-group .add {
+	height: 200px;
+}
+.container .form .abb {
+	width: 20px;
+	margin-bottom: 20px;
+}
